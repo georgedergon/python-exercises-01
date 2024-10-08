@@ -1,7 +1,7 @@
 a = 10
 b = 3
 
-Summe = a + b
+summe = a + b
 differenz = a - b
 produkt = a * b
 ganzzahliger_quotient = a // b
